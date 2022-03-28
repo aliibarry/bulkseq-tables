@@ -1,12 +1,9 @@
 # bulkseq-tables
 
-\title{Exploring the molecular underpinnings of neuropathic pain in primary afferent subtypes}
-\author{Allison Marie Barry}
-\college{Green Templeton College}
-\degree{Doctor of Philosophy}
-\degreedate{TT 2022}
-
-allimariebarry@gmail.com
+Exploring the molecular underpinnings of neuropathic pain in primary afferent subtypes
+Allison Marie Barry
+Green Templeton College
 University of Oxford
+allimariebarry@gmail.com
 
 Supplementary tables
