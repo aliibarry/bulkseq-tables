@@ -25,7 +25,7 @@ allimariebarry@gmail.com </p>
 ```
 * INJURY-general_DEG_3D: Ipsilateral vs contralateral samples from 3 days post-SNI (an acute timepoint). Contains samples from all subtypes. Not filtered for LFC.  
 * INJURY-general_DEG_4W: Ipsilateral vs contralateral samples from 3 days post-SNI (an acute timepoint). Contains samples from all subtypes. Not filtered for LFC.  
-* INJURY-general_DEGoverlap: overlapping DEGs (LFC >1, FDR < 0.05) from DEG_3D and DEG_4W tables.  
+* INJURY-general_DEG_overlap: overlapping DEGs (LFC >1, FDR < 0.05) from DEG_3D and DEG_4W tables.  
 * INJURY-general_DEG_4wv3D_ipsilateral: 4W ipsilateral vs 3D ipsilateral samples. 
 
 ### Subtype Injury signatures  
