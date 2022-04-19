@@ -7,6 +7,9 @@ allimariebarry@gmail.com </p>
 
 ## Supplementary tables  
 ### Naive comparisions  
+```
+~ Population
+```
 * DRGsubtype_Zheng2019-genesets.csv : 8 neuronal subtype genesets curated from Zheng et al 2019 (DOI: 10.1016/j.neuron.2019.05.039)  
 * DRGsubtype_geneenrichment.csv : Gene enrichment for each subtype in the current study, based on 75% confidence intervals  
 * DRGsubtype_sex_DEG.xlsx : Differentially expressed genes (DEGs) for each subtype, with female reference  
@@ -15,11 +18,16 @@ allimariebarry@gmail.com </p>
 * DRGsubtype_sex_GSEA.xlsx : GSEA analyses using ClusterProfiler (R) against all gene sets available from the Molecular Signatures Database (MSigDB)   
 
 ### General Injury signatures  
+```
+~ Time + Condition
+```
 * INJURY-general_DEG_3D: Ipsilateral vs contralateral samples from 3 days post-SNI (an acute timepoint). Contains samples from all subtypes. Not filtered for LFC.  
 * INJURY-general_DEG_4W: Ipsilateral vs contralateral samples from 3 days post-SNI (an acute timepoint). Contains samples from all subtypes. Not filtered for LFC.  
 * INJURY-general_DEGoverlap: overlapping DEGs (LFC >1, FDR < 0.05) from DEG_3D and DEG_4W tables.  
 * INJURY-general_DEG_4wv3D_ipsilateral: 4W ipsilateral vs 3D ipsilateral samples. 
 
 ### Subtype Injury signatures  
-
+```
+~ Time + Condition + Population
+```
 
