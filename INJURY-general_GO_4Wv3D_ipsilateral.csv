@@ -1,0 +1,475 @@
+,category,over_represented_pvalue,under_represented_pvalue,numDEInCat,numInCat,term,ontology,Enrichment
+2643,GO:0017038,1.91E-05,1,2,2,protein import,BP,4W
+9612,GO:1902998,1.91E-05,1,2,2,positive regulation of neurofibrillary tangle assembly,BP,4W
+9118,GO:1900221,6.18E-05,0.999999908,2,3,regulation of amyloid-beta clearance,BP,4W
+3863,GO:0032981,6.79E-05,0.999997429,4,49,mitochondrial respiratory chain complex I assembly,BP,4W
+9470,GO:1902430,9.90E-05,0.999998177,3,19,negative regulation of amyloid-beta formation,BP,4W
+8597,GO:0097250,0.000270175,0.999998499,2,6,mitochondrial respirasome assembly,BP,4W
+1712,GO:0007616,0.000392084,0.999987917,3,30,long-term memory,BP,4W
+9137,GO:1900272,0.000926807,0.99998893,2,10,negative regulation of long-term synaptic potentiation,BP,4W
+3974,GO:0033539,0.000993076,0.999987716,2,10,fatty acid beta-oxidation using acyl-CoA dehydrogenase,BP,4W
+6270,GO:0050896,0.001091122,0.999951108,3,42,response to stimulus,BP,4W
+10448,GO:1905907,0.0011092,0.999985236,2,11,negative regulation of amyloid fibril formation,BP,4W
+4929,GO:0042775,0.001212418,0.999983117,2,11,mitochondrial ATP synthesis coupled electron transport,BP,4W
+416,GO:0002082,0.001352142,0.999979818,2,12,regulation of oxidative phosphorylation,BP,4W
+5851,GO:0046889,0.001472192,0.999977056,2,12,positive regulation of lipid biosynthetic process,BP,4W
+1723,GO:0007631,0.002117822,0.999959085,2,15,feeding behavior,BP,4W
+9365,GO:1902004,0.002305271,0.999953497,2,15,positive regulation of amyloid-beta formation,BP,4W
+9217,GO:1901214,0.002876834,0.999934135,2,17,regulation of neuron death,BP,4W
+949,GO:0006120,0.003002886,0.999929335,2,18,"mitochondrial electron transport, NADH to ubiquinone",BP,4W
+1366,GO:0006820,0.003433216,0.999913479,2,18,anion transport,BP,4W
+5090,GO:0043408,0.003654018,0.999904459,2,19,regulation of MAPK cascade,BP,4W
+2245,GO:0010877,0.003929346,1,1,1,lipid transport involved in lipid storage,BP,4W
+6572,GO:0051651,0.003929346,1,1,1,maintenance of location in cell,BP,4W
+8010,GO:0071830,0.003929346,1,1,1,triglyceride-rich lipoprotein particle clearance,BP,4W
+8011,GO:0071831,0.003929346,1,1,1,intermediate-density lipoprotein particle clearance,BP,4W
+9291,GO:1901627,0.003929346,1,1,1,negative regulation of postsynaptic membrane organization,BP,4W
+9613,GO:1902999,0.003929346,1,1,1,negative regulation of phospholipid efflux,BP,4W
+9614,GO:1903001,0.003929346,1,1,1,negative regulation of lipid transport across blood-brain barrier,BP,4W
+9615,GO:1903002,0.003929346,1,1,1,positive regulation of lipid transport across blood-brain barrier,BP,4W
+10431,GO:1905855,0.003929346,1,1,1,positive regulation of heparan sulfate binding,BP,4W
+10433,GO:1905860,0.003929346,1,1,1,positive regulation of heparan sulfate proteoglycan binding,BP,4W
+10440,GO:1905890,0.003929346,1,1,1,regulation of cellular response to very-low-density lipoprotein particle stimulus,BP,4W
+10941,GO:2000822,0.003929346,1,1,1,regulation of behavioral fear response,BP,4W
+10611,GO:2000057,0.004182658,1,1,1,negative regulation of Wnt signaling pathway involved in digestive tract morphogenesis,BP,4W
+10063,GO:1904439,0.00440502,1,1,1,negative regulation of iron ion import across plasma membrane,BP,4W
+9134,GO:1900260,0.004556703,1,1,1,negative regulation of RNA-directed 5'-3' RNA polymerase activity,BP,4W
+9642,GO:1903060,0.004677992,1,1,1,negative regulation of protein lipidation,BP,4W
+10452,GO:1905920,0.004677992,1,1,1,positive regulation of CoA-transferase activity,BP,4W
+9215,GO:1901208,0.004789997,1,1,1,negative regulation of heart looping,BP,4W
+9216,GO:1901211,0.004789997,1,1,1,negative regulation of cardiac chamber formation,BP,4W
+4760,GO:0042137,0.004873933,1,1,1,sequestering of neurotransmitter,BP,4W
+6605,GO:0051788,0.004881284,1,1,1,response to misfolded protein,BP,4W
+9561,GO:1902847,0.004881284,1,1,1,regulation of neuronal signal transduction,BP,4W
+10441,GO:1905892,0.004881284,1,1,1,negative regulation of cellular response to thapsigargin,BP,4W
+10443,GO:1905895,0.004881284,1,1,1,negative regulation of cellular response to tunicamycin,BP,4W
+6341,GO:0051053,0.004884259,1,1,1,negative regulation of DNA metabolic process,BP,4W
+3577,GO:0032272,0.004884259,1,1,1,negative regulation of protein polymerization,BP,4W
+8315,GO:0090044,0.004884259,1,1,1,positive regulation of tubulin deacetylation,BP,4W
+5379,GO:0045329,0.004884259,1,1,1,carnitine biosynthetic process,BP,4W
+645,GO:0002761,0.004884492,1,1,1,regulation of myeloid leukocyte differentiation,BP,4W
+3616,GO:0032385,0.004885651,1,1,1,positive regulation of intracellular cholesterol transport,BP,4W
+5587,GO:0045940,0.004885651,1,1,1,positive regulation of steroid metabolic process,BP,4W
+9248,GO:1901373,0.004885651,1,1,1,lipid hydroperoxide transport,BP,4W
+10048,GO:1904397,0.004888406,1,1,1,negative regulation of neuromuscular junction development,BP,4W
+8890,GO:0106064,0.004939683,1,1,1,regulation of cobalamin metabolic process,BP,4W
+8900,GO:0106121,0.004939683,1,1,1,positive regulation of cobalamin metabolic process,BP,4W
+8846,GO:0099551,0.005027323,1,1,1,"trans-synaptic signaling by neuropeptide, modulating synaptic transmission",BP,4W
+1766,GO:0008284,0.00521874,0.998945492,6,340,positive regulation of cell population proliferation,BP,4W
+1265,GO:0006641,0.005568607,0.999815926,2,24,triglyceride metabolic process,BP,4W
+6225,GO:0050807,0.007320859,0.999719215,2,27,regulation of synapse organization,BP,4W
+3278,GO:0030833,0.00778684,0.999691,2,28,regulation of actin filament polymerization,BP,4W
+5418,GO:0045597,0.008228349,0.999662748,2,30,positive regulation of cell differentiation,BP,4W
+9610,GO:1902995,0.008794737,0.999980907,1,2,positive regulation of phospholipid efflux,BP,4W
+7417,GO:0061771,0.008794737,0.999980907,1,2,response to caloric restriction,BP,4W
+9293,GO:1901631,0.00879501,0.999980906,1,2,positive regulation of presynaptic membrane organization,BP,4W
+9585,GO:1902947,0.008795492,0.999980904,1,2,regulation of tau-protein kinase activity,BP,4W
+4124,GO:0034382,0.008797116,0.999980897,1,2,chylomicron remnant clearance,BP,4W
+6467,GO:0051365,0.008818943,0.999980801,1,2,cellular response to potassium ion starvation,BP,4W
+10447,GO:1905906,0.008852236,0.999980656,1,2,regulation of amyloid fibril formation,BP,4W
+8374,GO:0090175,0.009046839,0.999979794,1,2,regulation of establishment of planar polarity,BP,4W
+10602,GO:2000041,0.009046839,0.999979794,1,2,negative regulation of planar cell polarity pathway involved in axis elongation,BP,4W
+10248,GO:1905049,0.009101601,0.999979548,1,2,negative regulation of metallopeptidase activity,BP,4W
+9996,GO:1904234,0.009268127,0.999978791,1,2,positive regulation of aconitate hydratase activity,BP,4W
+6842,GO:0060221,0.009271634,0.999978775,1,2,retinal rod cell differentiation,BP,4W
+3617,GO:0032386,0.009406281,0.999978153,1,2,regulation of intracellular transport,BP,4W
+5562,GO:0045900,0.00952734,0.999977585,1,2,negative regulation of translational elongation,BP,4W
+1919,GO:0009583,0.009580198,0.999977335,1,2,detection of light stimulus,BP,4W
+6994,GO:0060465,0.009651257,0.999976997,1,2,pharynx development,BP,4W
+1678,GO:0007521,0.009675678,0.99997688,1,2,muscle cell fate determination,BP,4W
+5180,GO:0043932,0.009691117,0.999976806,1,2,ossification involved in bone remodeling,BP,4W
+9475,GO:1902455,0.009696592,0.99997678,1,2,negative regulation of stem cell population maintenance,BP,4W
+8626,GO:0097401,0.009736012,0.99997659,1,2,synaptic vesicle lumen acidification,BP,4W
+2258,GO:0010893,0.009746449,0.99997654,1,2,positive regulation of steroid biosynthetic process,BP,4W
+1311,GO:0006701,0.009746449,0.99997654,1,2,progesterone biosynthetic process,BP,4W
+7761,GO:0071071,0.009746449,0.99997654,1,2,regulation of phospholipid biosynthetic process,BP,4W
+532,GO:0002434,0.009746817,0.999976538,1,2,immune complex clearance,BP,4W
+3664,GO:0032487,0.009748716,0.999976529,1,2,regulation of Rap protein signal transduction,BP,4W
+7036,GO:0060560,0.009752461,0.999976511,1,2,developmental growth involved in morphogenesis,BP,4W
+1724,GO:0007632,0.00975749,0.999976486,1,2,visual behavior,BP,4W
+4990,GO:0043065,0.00995691,0.998058113,5,276,positive regulation of apoptotic process,BP,4W
+2201,GO:0010811,0.010523735,0.999508232,2,32,positive regulation of cell-substrate adhesion,BP,4W
+6718,GO:0055096,0.011372524,0.999968032,1,2,low-density lipoprotein particle mediated signaling,BP,4W
+1395,GO:0006879,0.011864273,0.999407352,2,35,cellular iron ion homeostasis,BP,4W
+4145,GO:0034447,0.012712243,0.999946744,1,3,very-low-density lipoprotein particle clearance,BP,4W
+4116,GO:0034372,0.012851254,0.999945569,1,3,very-low-density lipoprotein particle remodeling,BP,4W
+1259,GO:0006635,0.013017383,0.999316604,2,36,fatty acid beta-oxidation,BP,4W
+9827,GO:1903706,0.013343895,0.999941303,1,3,regulation of hemopoiesis,BP,4W
+3792,GO:0032805,0.013636764,0.99993869,1,3,positive regulation of low-density lipoprotein particle receptor catabolic process,BP,4W
+9590,GO:1902952,0.013688319,0.999938224,1,3,positive regulation of dendritic spine maintenance,BP,4W
+8316,GO:0090045,0.013972387,0.999935625,1,3,positive regulation of deacetylase activity,BP,4W
+9595,GO:1902958,0.014103959,0.999934403,1,3,"positive regulation of mitochondrial electron transport, NADH to ubiquinone",BP,4W
+10966,GO:2001015,0.014335587,0.999932223,1,3,negative regulation of skeletal muscle cell differentiation,BP,4W
+1753,GO:0008206,0.014468533,0.999930956,1,3,bile acid metabolic process,BP,4W
+8083,GO:0072105,0.014490222,0.999930749,1,3,ureteric peristalsis,BP,4W
+7049,GO:0060596,0.0144984,0.99993067,1,3,mammary placode formation,BP,4W
+798,GO:0003256,0.014522963,0.999930434,1,3,regulation of transcription from RNA polymerase II promoter involved in myocardial precursor cell differentiation,BP,4W
+1794,GO:0008582,0.014531054,0.999930356,1,3,regulation of synaptic growth at neuromuscular junction,BP,4W
+2768,GO:0019244,0.014555825,0.999930118,1,3,lactate biosynthetic process from pyruvate,BP,4W
+8708,GO:0098700,0.014572375,0.999929958,1,3,neurotransmitter loading into synaptic vesicle,BP,4W
+3582,GO:0032286,0.014580467,0.99992988,1,3,central nervous system myelin maintenance,BP,4W
+2770,GO:0019254,0.014582527,0.99992986,1,3,"carnitine metabolic process, CoA-linked",BP,4W
+5961,GO:0048294,0.014582758,0.999929858,1,3,negative regulation of isotype switching to IgE isotypes,BP,4W
+5965,GO:0048302,0.014582758,0.999929858,1,3,regulation of isotype switching to IgG isotypes,BP,4W
+5433,GO:0045619,0.014584791,0.999929839,1,3,regulation of lymphocyte differentiation,BP,4W
+10047,GO:1904395,0.014585622,0.999929831,1,3,positive regulation of skeletal muscle acetylcholine-gated channel clustering,BP,4W
+3356,GO:0031104,0.014598865,0.999929703,1,3,dendrite regeneration,BP,4W
+2713,GO:0018343,0.01461233,0.999929573,1,3,protein farnesylation,BP,4W
+8828,GO:0099183,0.014640985,0.999929295,1,3,"trans-synaptic signaling by BDNF, modulating synaptic transmission",BP,4W
+10516,GO:1990416,0.014999341,0.999925779,1,3,cellular response to brain-derived neurotrophic factor stimulus,BP,4W
+1689,GO:0007568,0.015209553,0.99912993,2,40,aging,BP,4W
+3283,GO:0030838,0.015823224,0.999075806,2,40,positive regulation of actin filament polymerization,BP,4W
+6871,GO:0060291,0.016751843,0.99899082,2,41,long-term synaptic potentiation,BP,4W
+4036,GO:0034097,0.016896777,0.99897656,2,42,response to cytokine,BP,4W
+4126,GO:0034384,0.017101492,0.999891406,1,4,high-density lipoprotein particle clearance,BP,4W
+4122,GO:0034380,0.017112945,0.99989126,1,4,high-density lipoprotein particle assembly,BP,4W
+9219,GO:1901216,0.01743683,0.998925291,2,43,positive regulation of neuron death,BP,4W
+10994,GO:2001140,0.01748432,0.999886471,1,4,positive regulation of phospholipid transport,BP,4W
+4768,GO:0042158,0.017685843,0.999883829,1,4,lipoprotein biosynthetic process,BP,4W
+9589,GO:1902951,0.017890135,0.999881119,1,4,negative regulation of dendritic spine maintenance,BP,4W
+5401,GO:0045541,0.01798809,0.999879808,1,4,negative regulation of cholesterol biosynthetic process,BP,4W
+457,GO:0002232,0.018321392,0.999875295,1,4,leukocyte chemotaxis involved in inflammatory response,BP,4W
+4769,GO:0042159,0.018448996,0.999873545,1,4,lipoprotein catabolic process,BP,4W
+9607,GO:1902991,0.018455611,0.999873454,1,4,regulation of amyloid precursor protein catabolic process,BP,4W
+1709,GO:0007612,0.018590066,0.998816845,2,41,learning,BP,4W
+6609,GO:0051793,0.01884498,0.999868036,1,4,medium-chain fatty acid catabolic process,BP,4W
+5537,GO:0045837,0.019103865,0.99986437,1,4,negative regulation of membrane potential,BP,4W
+9963,GO:1904109,0.019285441,0.999861769,1,4,positive regulation of cholesterol import,BP,4W
+6648,GO:0051938,0.019389931,0.999860261,1,4,L-glutamate import,BP,4W
+6607,GO:0051791,0.019396757,0.999860162,1,4,medium-chain fatty acid metabolic process,BP,4W
+662,GO:0002829,0.019396986,0.999860159,1,4,negative regulation of type 2 immune response,BP,4W
+3851,GO:0032959,0.019412613,0.999859932,1,4,inositol trisphosphate biosynthetic process,BP,4W
+5504,GO:0045761,0.019416235,0.99985988,1,4,regulation of adenylate cyclase activity,BP,4W
+6755,GO:0060041,0.019502515,0.998722769,2,45,retina development in camera-type eye,BP,4W
+622,GO:0002690,0.019646496,0.999847009,1,5,positive regulation of leukocyte chemotaxis,BP,4W
+8964,GO:0140059,0.019719415,0.999855451,1,4,dendrite arborization,BP,4W
+3435,GO:0031547,0.019767697,0.999854739,1,4,brain-derived neurotrophic factor receptor signaling pathway,BP,4W
+6581,GO:0051668,0.020560712,0.999842797,1,4,localization within membrane,BP,4W
+8558,GO:0097113,0.020629713,0.999841736,1,4,AMPA glutamate receptor clustering,BP,4W
+5368,GO:0045213,0.020868049,0.999855951,1,3,neurotransmitter receptor metabolic process,BP,4W
+1615,GO:0007266,0.021061095,0.998562334,2,46,Rho protein signal transduction,BP,4W
+3575,GO:0032269,0.02135552,0.999819107,1,5,negative regulation of cellular protein metabolic process,BP,4W
+1785,GO:0008360,0.021565755,0.997084222,3,123,regulation of cell shape,BP,4W
+6156,GO:0048935,0.023057236,0.999788981,1,5,peripheral nervous system neuron development,BP,4W
+6600,GO:0051771,0.023063515,0.999788865,1,5,negative regulation of nitric-oxide synthase biosynthetic process,BP,4W
+9587,GO:1902949,0.023100943,0.999788176,1,5,positive regulation of tau-protein kinase activity,BP,4W
+6013,GO:0048539,0.023220778,0.999785962,1,5,bone marrow development,BP,4W
+8523,GO:0097006,0.023236824,0.999785665,1,5,regulation of plasma lipoprotein particle levels,BP,4W
+443,GO:0002183,0.023238017,0.999785643,1,5,cytoplasmic translational initiation,BP,4W
+9120,GO:1900223,0.02326216,0.999785195,1,5,positive regulation of amyloid-beta clearance,BP,4W
+6343,GO:0051055,0.023285872,0.999784755,1,5,negative regulation of lipid biosynthetic process,BP,4W
+10898,GO:2000738,0.023340435,0.99978374,1,5,positive regulation of stem cell differentiation,BP,4W
+3666,GO:0032489,0.023446553,0.999781759,1,5,regulation of Cdc42 protein signal transduction,BP,4W
+2714,GO:0018344,0.02345777,0.999781549,1,5,protein geranylgeranylation,BP,4W
+8390,GO:0090209,0.023467309,0.999781371,1,5,negative regulation of triglyceride metabolic process,BP,4W
+6748,GO:0060028,0.023499674,0.999780765,1,5,convergent extension involved in axis elongation,BP,4W
+1708,GO:0007611,0.023745438,0.998267956,2,50,learning or memory,BP,4W
+74,GO:0000395,0.023835681,0.999774419,1,5,mRNA 5'-splice site recognition,BP,4W
+3501,GO:0031999,0.023991225,0.99977145,1,5,negative regulation of fatty acid beta-oxidation,BP,4W
+7957,GO:0071636,0.024082717,0.999769695,1,5,positive regulation of transforming growth factor beta production,BP,4W
+4566,GO:0036302,0.024159954,0.999768208,1,5,atrioventricular canal development,BP,4W
+2834,GO:0019674,0.024187876,0.999767669,1,5,NAD metabolic process,BP,4W
+10725,GO:2000324,0.024394055,0.999763672,1,5,positive regulation of glucocorticoid receptor signaling pathway,BP,4W
+6292,GO:0050927,0.02539729,0.999743727,1,5,positive regulation of positive chemotaxis,BP,4W
+8559,GO:0097114,0.025789858,0.9997357,1,5,NMDA glutamate receptor clustering,BP,4W
+1316,GO:0006707,0.025828661,0.999723936,1,6,cholesterol catabolic process,BP,4W
+2241,GO:0010873,0.026677724,0.999705387,1,6,positive regulation of cholesterol esterification,BP,4W
+4023,GO:0033700,0.02670238,0.999704839,1,6,phospholipid efflux,BP,4W
+2739,GO:0019068,0.026818087,0.999702261,1,6,virion assembly,BP,4W
+9790,GO:1903573,0.027373717,0.999689727,1,6,negative regulation of response to endoplasmic reticulum stress,BP,4W
+8472,GO:0090370,0.027913417,0.999677301,1,6,negative regulation of cholesterol efflux,BP,4W
+2318,GO:0014009,0.02799762,0.99967534,1,6,glial cell proliferation,BP,4W
+304,GO:0001878,0.027999689,0.999675292,1,6,response to yeast,BP,4W
+2074,GO:0010544,0.028024431,0.999674715,1,6,negative regulation of platelet activation,BP,4W
+6335,GO:0051045,0.028280205,0.999668716,1,6,negative regulation of membrane protein ectodomain proteolysis,BP,4W
+3741,GO:0032713,0.028492453,0.999663696,1,6,negative regulation of interleukin-4 production,BP,4W
+925,GO:0006089,0.028569461,0.999661865,1,6,lactate metabolic process,BP,4W
+6408,GO:0051224,0.028976939,0.999652093,1,6,negative regulation of protein transport,BP,4W
+8118,GO:0072201,0.028980987,0.999651996,1,6,negative regulation of mesenchymal cell proliferation,BP,4W
+3624,GO:0032410,0.028982773,0.999651952,1,6,negative regulation of transporter activity,BP,4W
+4859,GO:0042490,0.029321901,0.999643711,1,6,mechanoreceptor differentiation,BP,4W
+4117,GO:0034374,0.031408473,0.999579273,1,7,low-density lipoprotein particle remodeling,BP,4W
+2509,GO:0015909,0.03175458,0.99956989,1,7,long-chain fatty acid transport,BP,4W
+2712,GO:0018342,0.032047115,0.999561878,1,7,protein prenylation,BP,4W
+2845,GO:0019732,0.032178739,0.999558249,1,7,antifungal humoral response,BP,4W
+944,GO:0006112,0.032183863,0.999558107,1,7,energy reserve metabolic process,BP,4W
+4956,GO:0042981,0.032709164,0.994802855,3,147,regulation of apoptotic process,BP,4W
+1612,GO:0007263,0.032731807,0.999533402,1,8,nitric oxide mediated signal transduction,BP,4W
+8618,GO:0097345,0.033096697,0.999532516,1,7,mitochondrial outer membrane permeabilization,BP,4W
+7354,GO:0061518,0.033215893,0.99952912,1,7,microglial cell proliferation,BP,4W
+4960,GO:0042985,0.03334752,0.999525356,1,7,negative regulation of amyloid precursor protein biosynthetic process,BP,4W
+1365,GO:0006817,0.033476103,0.999521664,1,7,phosphate ion transport,BP,4W
+7838,GO:0071340,0.033678935,0.999515811,1,7,skeletal muscle acetylcholine-gated channel clustering,BP,4W
+1908,GO:0009437,0.033701653,0.999515153,1,7,carnitine metabolic process,BP,4W
+8359,GO:0090150,0.033711849,0.999514858,1,7,establishment of protein localization to membrane,BP,4W
+2337,GO:0014047,0.033882485,0.999509901,1,7,glutamate secretion,BP,4W
+2299,GO:0010976,0.0343825,0.994430984,3,146,positive regulation of neuron projection development,BP,4W
+161,GO:0001503,0.035189626,0.996812655,2,62,ossification,BP,4W
+4118,GO:0034375,0.035375224,0.999454432,1,8,high-density lipoprotein particle remodeling,BP,4W
+5173,GO:0043691,0.035417282,0.999453125,1,8,reverse cholesterol transport,BP,4W
+4957,GO:0042982,0.035616349,0.999446917,1,8,amyloid precursor protein metabolic process,BP,4W
+5283,GO:0044794,0.036381876,0.999422713,1,8,positive regulation by host of viral process,BP,4W
+5296,GO:0044849,0.036944694,0.999404582,1,8,estrous cycle,BP,4W
+1653,GO:0007406,0.037045953,0.99940129,1,8,negative regulation of neuroblast proliferation,BP,4W
+7207,GO:0061000,0.037440264,0.999388383,1,8,negative regulation of dendritic spine development,BP,4W
+1409,GO:0006896,0.037958489,0.999371207,1,8,Golgi to vacuole transport,BP,4W
+3384,GO:0031274,0.0380504,0.999368136,1,8,positive regulation of pseudopodium assembly,BP,4W
+5153,GO:0043616,0.038529629,0.999351998,1,8,keratinocyte proliferation,BP,4W
+6277,GO:0050908,0.038729939,0.999345191,1,8,detection of light stimulus involved in visual perception,BP,4W
+5505,GO:0045762,0.039200057,0.999329074,1,8,positive regulation of adenylate cyclase activity,BP,4W
+4780,GO:0042246,0.040768795,0.999262472,1,9,tissue regeneration,BP,4W
+2308,GO:0010996,0.040906926,0.999257426,1,9,response to auditory stimulus,BP,4W
+6188,GO:0050728,0.040971697,0.995961769,2,68,negative regulation of inflammatory response,BP,4W
+6072,GO:0048680,0.041327688,0.999241948,1,9,positive regulation of axon regeneration,BP,4W
+3162,GO:0030195,0.041421521,0.999238474,1,9,negative regulation of blood coagulation,BP,4W
+6412,GO:0051246,0.04177943,0.999225149,1,9,regulation of protein metabolic process,BP,4W
+8389,GO:0090207,0.042020785,0.999216097,1,9,regulation of triglyceride metabolic process,BP,4W
+4542,GO:0036151,0.042030793,0.999215721,1,9,phosphatidylcholine acyl-chain remodeling,BP,4W
+4758,GO:0042135,0.042443253,0.999200125,1,9,neurotransmitter catabolic process,BP,4W
+1986,GO:0010035,0.042445996,0.999200021,1,9,response to inorganic substance,BP,4W
+2945,GO:0021670,0.042590767,0.999194509,1,9,lateral ventricle development,BP,4W
+132,GO:0000902,0.042691485,0.995697035,2,68,cell morphogenesis,BP,4W
+5402,GO:0045542,0.042975812,0.999179756,1,9,positive regulation of cholesterol biosynthetic process,BP,4W
+8700,GO:0098656,0.043163465,0.999172517,1,9,anion transmembrane transport,BP,4W
+2759,GO:0019227,0.043474226,0.999160458,1,9,neuronal action potential propagation,BP,4W
+6221,GO:0050803,0.043514788,0.999158877,1,9,regulation of synapse structure or activity,BP,4W
+4767,GO:0042157,0.043925473,0.99913222,1,10,lipoprotein metabolic process,BP,4W
+4731,GO:0042058,0.04399472,0.999140061,1,9,regulation of epidermal growth factor receptor signaling pathway,BP,4W
+5114,GO:0043508,0.044794981,0.999097223,1,10,negative regulation of JUN kinase activity,BP,4W
+3244,GO:0030510,0.044818467,0.999096268,1,10,regulation of BMP signaling pathway,BP,4W
+1391,GO:0006874,0.045130533,0.995308404,2,70,cellular calcium ion homeostasis,BP,4W
+6852,GO:0060253,0.045743268,0.999058252,1,10,negative regulation of glial cell proliferation,BP,4W
+7525,GO:0070207,0.045770064,0.999057138,1,10,protein homotrimerization,BP,4W
+1245,GO:0006614,0.046369601,0.999032052,1,10,SRP-dependent cotranslational protein targeting to membrane,BP,4W
+8378,GO:0090179,0.046423633,0.999029775,1,10,planar cell polarity pathway involved in neural tube closure,BP,4W
+4580,GO:0036342,0.046652374,0.999020104,1,10,post-anal tail morphogenesis,BP,4W
+6016,GO:0048546,0.047084663,0.999001694,1,10,digestive tract morphogenesis,BP,4W
+5750,GO:0046548,0.04736282,0.998989756,1,10,retinal rod cell development,BP,4W
+8582,GO:0097194,0.047645879,0.998977533,1,10,execution phase of apoptosis,BP,4W
+3559,GO:0032228,0.04785981,0.998968245,1,10,"regulation of synaptic transmission, GABAergic",BP,4W
+6239,GO:0050850,0.049013906,0.998917404,1,10,positive regulation of calcium-mediated signaling,BP,4W
+9419,GO:1902230,0.049780244,0.998871849,1,11,negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage,BP,4W
+5464,GO:0045666,0.049983596,0.99450038,2,73,positive regulation of neuron differentiation,BP,4W
+4990,GO:0043065,3.26E-05,0.999995464,9,276,positive regulation of apoptotic process,BP,3D
+6498,GO:0051464,0.000141315,0.999999681,2,3,positive regulation of cortisol secretion,BP,3D
+2107,GO:0010628,0.00020432,0.999963571,9,358,positive regulation of gene expression,BP,3D
+8735,GO:0098810,0.000208477,0.999999192,2,4,neurotransmitter reuptake,BP,3D
+9942,GO:1904030,0.00028639,0.999998697,2,4,negative regulation of cyclin-dependent protein kinase activity,BP,3D
+5427,GO:0045606,0.000365728,0.999997814,2,5,positive regulation of epidermal cell differentiation,BP,3D
+6594,GO:0051726,0.000429538,0.999959655,5,106,regulation of cell cycle,BP,3D
+3529,GO:0032091,0.000484352,0.999968675,4,62,negative regulation of protein binding,BP,3D
+3304,GO:0030890,0.000670148,0.999975055,3,29,positive regulation of B cell proliferation,BP,3D
+21,GO:0000079,0.000787656,0.999968994,3,29,regulation of cyclin-dependent protein serine/threonine kinase activity,BP,3D
+36,GO:0000185,0.000942128,0.999989152,2,8,activation of MAPKKK activity,BP,3D
+7076,GO:0060674,0.001853337,0.99996782,2,11,placenta blood vessel development,BP,3D
+8017,GO:0071850,0.001903203,0.999966504,2,11,mitotic cell cycle arrest,BP,3D
+5125,GO:0043537,0.003147555,0.999925809,2,14,negative regulation of blood vessel endothelial cell migration,BP,3D
+5822,GO:0046827,0.003227812,0.999922286,2,15,positive regulation of protein export from nucleus,BP,3D
+2049,GO:0010466,0.003243925,0.999783803,3,50,negative regulation of peptidase activity,BP,3D
+678,GO:0002881,0.004574549,1,1,1,negative regulation of chronic inflammatory response to non-antigenic stimulus,BP,3D
+9010,GO:0150090,0.004574549,1,1,1,"multiple spine synapse organization, single dendrite",BP,3D
+1141,GO:0006469,0.004681044,0.999642499,3,58,negative regulation of protein kinase activity,BP,3D
+1002,GO:0006238,0.005151216,1,1,1,CMP salvage,BP,3D
+5220,GO:0044206,0.005151216,1,1,1,UMP salvage,BP,3D
+1376,GO:0006837,0.005657945,1,1,1,serotonin transport,BP,3D
+3041,GO:0021941,0.005657945,1,1,1,negative regulation of cerebellar granule cell precursor proliferation,BP,3D
+8321,GO:0090067,0.005657945,1,1,1,regulation of thalamus size,BP,3D
+2477,GO:0015826,0.005774672,1,1,1,threonine transport,BP,3D
+4171,GO:0034589,0.005774672,1,1,1,hydroxyproline transport,BP,3D
+8716,GO:0098718,0.005774672,1,1,1,serine import across plasma membrane,BP,3D
+9868,GO:1903812,0.005774672,1,1,1,L-serine import across plasma membrane,BP,3D
+8157,GO:0072376,0.005888836,1,1,1,protein activation cascade,BP,3D
+424,GO:0002092,0.005921763,0.999798199,2,22,positive regulation of receptor internalization,BP,3D
+10548,GO:1990683,0.006147619,1,1,1,DNA double-strand break attachment to nuclear envelope,BP,3D
+9170,GO:1900745,0.006358992,0.999776854,2,20,positive regulation of p38MAPK cascade,BP,3D
+9264,GO:1901491,0.006597235,1,1,1,negative regulation of lymphangiogenesis,BP,3D
+563,GO:0002525,0.00663419,1,1,1,acute inflammatory response to non-antigenic stimulus,BP,3D
+5790,GO:0046670,0.00663419,1,1,1,positive regulation of retinal cell programmed cell death,BP,3D
+6109,GO:0048757,0.00667796,1,1,1,pigment granule maturation,BP,3D
+6296,GO:0050931,0.00667796,1,1,1,pigment cell differentiation,BP,3D
+10636,GO:2000119,0.006778464,1,1,1,negative regulation of sodium-dependent phosphate transport,BP,3D
+6813,GO:0060143,0.006780014,1,1,1,positive regulation of syncytium formation by plasma membrane fusion,BP,3D
+6499,GO:0051466,0.006811414,1,1,1,positive regulation of corticotropin-releasing hormone secretion,BP,3D
+2486,GO:0015853,0.006870215,1,1,1,adenine transport,BP,3D
+2487,GO:0015854,0.006870215,1,1,1,guanine transport,BP,3D
+4298,GO:0035344,0.006870215,1,1,1,hypoxanthine transport,BP,3D
+4305,GO:0035364,0.006870215,1,1,1,thymine transport,BP,3D
+9232,GO:1901291,0.006916353,1,1,1,negative regulation of double-strand break repair via single-strand annealing,BP,3D
+1710,GO:0007613,0.007016006,0.999375871,3,73,memory,BP,3D
+8230,GO:0072749,0.007099759,1,1,1,cellular response to cytochalasin B,BP,3D
+4610,GO:0036496,0.007114474,1,1,1,regulation of translational initiation by eIF2 alpha dephosphorylation,BP,3D
+9907,GO:1903917,0.007114474,1,1,1,positive regulation of endoplasmic reticulum stress-induced eIF2 alpha dephosphorylation,BP,3D
+1500,GO:0007050,0.007140223,0.999362873,3,65,cell cycle arrest,BP,3D
+9178,GO:1901003,0.007172361,1,1,1,negative regulation of fermentation,BP,3D
+2611,GO:0016525,0.007178187,0.999357136,3,69,negative regulation of angiogenesis,BP,3D
+1810,GO:0008628,0.007183685,1,1,1,hormone-mediated apoptotic signaling pathway,BP,3D
+6990,GO:0060456,0.007183685,1,1,1,positive regulation of digestive system process,BP,3D
+2054,GO:0010482,0.007203218,1,1,1,regulation of epidermal cell division,BP,3D
+1775,GO:0008306,0.009182816,0.999603824,2,25,associative learning,BP,3D
+10754,GO:2000379,0.010241669,0.999532329,2,25,positive regulation of reactive oxygen species metabolic process,BP,3D
+2936,GO:0021626,0.010374417,0.999973323,1,2,central nervous system maturation,BP,3D
+3558,GO:0032227,0.010891919,0.999970588,1,2,"negative regulation of synaptic transmission, dopaminergic",BP,3D
+3317,GO:0030951,0.011086275,0.999969526,1,2,establishment or maintenance of microtubule cytoskeleton polarity,BP,3D
+2464,GO:0015808,0.011461999,0.999967419,1,2,L-alanine transport,BP,3D
+1375,GO:0006836,0.011822608,0.999412015,2,30,neurotransmitter transport,BP,3D
+6557,GO:0051621,0.012009436,0.999964222,1,2,regulation of norepinephrine uptake,BP,3D
+6611,GO:0051795,0.012043229,0.99996402,1,2,positive regulation of timing of catagen,BP,3D
+3969,GO:0033500,0.012059841,0.99996392,1,2,carbohydrate homeostasis,BP,3D
+1239,GO:0006606,0.012111949,0.998681174,3,82,protein import into nucleus,BP,3D
+1420,GO:0006913,0.012186998,0.999386493,2,28,nucleocytoplasmic transport,BP,3D
+10248,GO:1905049,0.012238321,0.999962841,1,2,negative regulation of metallopeptidase activity,BP,3D
+7113,GO:0060734,0.012242092,0.999962818,1,2,regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation,BP,3D
+1314,GO:0006704,0.012562616,0.999960839,1,2,glucocorticoid biosynthetic process,BP,3D
+10935,GO:2000814,0.012733124,0.999959765,1,2,positive regulation of barbed-end actin filament capping,BP,3D
+8466,GO:0090343,0.012801499,0.999959331,1,2,positive regulation of cell aging,BP,3D
+10980,GO:2001044,0.013326056,0.999955918,1,2,regulation of integrin-mediated signaling pathway,BP,3D
+3566,GO:0032238,0.013370618,0.999955621,1,2,adenosine transport,BP,3D
+6699,GO:0055062,0.013399376,0.999955429,1,2,phosphate ion homeostasis,BP,3D
+8148,GO:0072331,0.013488079,0.999954835,1,2,signal transduction by p53 class mediator,BP,3D
+3860,GO:0032972,0.01353254,0.999954536,1,2,regulation of muscle filament sliding speed,BP,3D
+6616,GO:0051835,0.013787617,0.999937116,1,3,positive regulation of synapse structural plasticity,BP,3D
+10275,GO:1905179,0.01381577,0.999952606,1,2,negative regulation of cardiac muscle tissue regeneration,BP,3D
+9448,GO:1902310,0.013963891,0.999951581,1,2,positive regulation of peptidyl-serine dephosphorylation,BP,3D
+10950,GO:2000854,0.014005934,0.999951288,1,2,positive regulation of corticosterone secretion,BP,3D
+3490,GO:0031943,0.014139233,0.999950353,1,2,regulation of glucocorticoid metabolic process,BP,3D
+9022,GO:0150111,0.014189712,0.999949996,1,2,regulation of transepithelial transport,BP,3D
+2349,GO:0014062,0.014190281,0.999949992,1,2,regulation of serotonin secretion,BP,3D
+1766,GO:0008284,0.014683724,0.996263932,6,340,positive regulation of cell population proliferation,BP,3D
+7905,GO:0071479,0.01503775,0.999150261,2,31,cellular response to ionizing radiation,BP,3D
+9513,GO:1902608,0.015512016,0.99992034,1,3,positive regulation of large conductance calcium-activated potassium channel activity,BP,3D
+9925,GO:1903984,0.015636635,0.99991905,1,3,positive regulation of TRAIL-activated apoptotic signaling pathway,BP,3D
+4662,GO:0038127,0.01610583,0.999914101,1,3,ERBB signaling pathway,BP,3D
+4257,GO:0035176,0.016259849,0.999033893,2,38,social behavior,BP,3D
+8232,GO:0072752,0.01667451,0.999907904,1,3,cellular response to rapamycin,BP,3D
+9041,GO:1900026,0.016852268,0.998983151,2,35,positive regulation of substrate adhesion-dependent cell spreading,BP,3D
+10007,GO:1904273,0.017284478,0.999901015,1,3,L-alanine import across plasma membrane,BP,3D
+9943,GO:1904031,0.017385323,0.999899852,1,3,positive regulation of cyclin-dependent protein kinase activity,BP,3D
+2485,GO:0015844,0.017406799,0.999899603,1,3,monoamine transport,BP,3D
+9076,GO:1900114,0.017520783,0.999898279,1,3,positive regulation of histone H3-K9 trimethylation,BP,3D
+11030,GO:2001234,0.017529497,0.998921476,2,34,negative regulation of apoptotic signaling pathway,BP,3D
+2351,GO:0014064,0.017532937,0.999898137,1,3,positive regulation of serotonin secretion,BP,3D
+4903,GO:0042713,0.01758431,0.999897537,1,3,sperm ejaculation,BP,3D
+7484,GO:0070092,0.017623199,0.999897082,1,3,regulation of glucagon secretion,BP,3D
+5141,GO:0043576,0.017775308,0.99989529,1,3,regulation of respiratory gaseous exchange,BP,3D
+4074,GO:0034198,0.017828545,0.998890477,2,36,cellular response to amino acid starvation,BP,3D
+3908,GO:0033140,0.017869452,0.999894173,1,3,negative regulation of peptidyl-serine phosphorylation of STAT protein,BP,3D
+8920,GO:0110091,0.017895641,0.999893862,1,3,negative regulation of hippocampal neuron apoptotic process,BP,3D
+8226,GO:0072734,0.018022955,0.99989234,1,3,cellular response to staurosporine,BP,3D
+9979,GO:1904178,0.01811888,0.999891186,1,3,negative regulation of adipose tissue development,BP,3D
+3794,GO:0032811,0.018310037,0.999888868,1,3,negative regulation of epinephrine secretion,BP,3D
+9402,GO:1902174,0.01845554,0.999887087,1,3,positive regulation of keratinocyte apoptotic process,BP,3D
+2489,GO:0015860,0.018492696,0.99988663,1,3,purine nucleoside transmembrane transport,BP,3D
+2490,GO:0015862,0.018492696,0.99988663,1,3,uridine transport,BP,3D
+8177,GO:0072531,0.018492696,0.99988663,1,3,pyrimidine-containing compound transmembrane transport,BP,3D
+1767,GO:0008285,0.018582514,0.995730953,5,266,negative regulation of cell population proliferation,BP,3D
+462,GO:0002248,0.018704797,0.999884004,1,3,connective tissue replacement involved in inflammatory response wound healing,BP,3D
+2488,GO:0015858,0.018754912,0.999883379,1,3,nucleoside transport,BP,3D
+4015,GO:0033685,0.018848351,0.999882209,1,3,negative regulation of luteinizing hormone secretion,BP,3D
+9272,GO:1901532,0.019041671,0.999879769,1,3,regulation of hematopoietic progenitor cell differentiation,BP,3D
+10699,GO:2000278,0.019069162,0.99987942,1,3,regulation of DNA biosynthetic process,BP,3D
+663,GO:0002830,0.019122145,0.999878747,1,3,positive regulation of type 2 immune response,BP,3D
+6496,GO:0051461,0.019376577,0.999875484,1,3,positive regulation of corticotropin secretion,BP,3D
+5962,GO:0048295,0.019597061,0.999872621,1,3,positive regulation of isotype switching to IgE isotypes,BP,3D
+7485,GO:0070093,0.019785558,0.999870148,1,3,negative regulation of glucagon secretion,BP,3D
+4671,GO:0038163,0.019916924,0.99986841,1,3,thrombopoietin-mediated signaling pathway,BP,3D
+1029,GO:0006285,0.019964283,0.99986778,1,3,"base-excision repair, AP site formation",BP,3D
+418,GO:0002086,0.020528217,0.999860169,1,3,diaphragm contraction,BP,3D
+10277,GO:1905205,0.020555545,0.999842362,1,4,positive regulation of connective tissue replacement,BP,3D
+1945,GO:0009749,0.02081019,0.998594537,2,36,response to glucose,BP,3D
+9171,GO:1900746,0.020874713,0.999837406,1,4,regulation of vascular endothelial growth factor signaling pathway,BP,3D
+2475,GO:0015824,0.021845282,0.999821861,1,4,proline transport,BP,3D
+2280,GO:0010942,0.021977243,0.998468731,2,38,positive regulation of cell death,BP,3D
+10848,GO:2000623,0.021999958,0.999819317,1,4,"negative regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",BP,3D
+8955,GO:0140009,0.022125276,0.999817243,1,4,L-aspartate import across plasma membrane,BP,3D
+9924,GO:1903980,0.022328879,0.999813848,1,4,positive regulation of microglial cell activation,BP,3D
+870,GO:0005513,0.023127196,0.999786997,1,5,detection of calcium ion,BP,3D
+2167,GO:0010748,0.023880964,0.999786927,1,4,negative regulation of long-chain fatty acid import across plasma membrane,BP,3D
+4995,GO:0043084,0.023903741,0.999786519,1,4,penile erection,BP,3D
+478,GO:0002282,0.024001671,0.999784757,1,4,microglial cell activation involved in immune response,BP,3D
+2476,GO:0015825,0.024191602,0.999781319,1,4,L-serine transport,BP,3D
+9672,GO:1903202,0.024422493,0.999777103,1,4,negative regulation of oxidative stress-induced cell death,BP,3D
+4769,GO:0042159,0.024464466,0.999776332,1,4,lipoprotein catabolic process,BP,3D
+5101,GO:0043462,0.024539842,0.999774944,1,4,regulation of ATPase activity,BP,3D
+3578,GO:0032273,0.025026907,0.999765873,1,4,positive regulation of protein polymerization,BP,3D
+254,GO:0001775,0.025252915,0.999761602,1,4,cell activation,BP,3D
+7831,GO:0071321,0.025559864,0.999739568,1,5,cellular response to cGMP,BP,3D
+10522,GO:1990441,0.025622613,0.999754531,1,4,negative regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress,BP,3D
+3829,GO:0032914,0.025711581,0.999752814,1,4,positive regulation of transforming growth factor beta1 production,BP,3D
+10608,GO:2000051,0.025735744,0.999735953,1,5,negative regulation of non-canonical Wnt signaling pathway,BP,3D
+5414,GO:0045590,0.0259568,0.99974805,1,4,negative regulation of regulatory T cell differentiation,BP,3D
+4036,GO:0034097,0.026043758,0.998006219,2,42,response to cytokine,BP,3D
+8031,GO:0071896,0.026316868,0.999723827,1,5,protein localization to adherens junction,BP,3D
+9689,GO:1903243,0.0265041,0.999719862,1,5,negative regulation of cardiac muscle hypertrophy in response to stress,BP,3D
+5477,GO:0045719,0.026986874,0.999709506,1,5,negative regulation of glycogen biosynthetic process,BP,3D
+6173,GO:0050672,0.027124788,0.999724727,1,4,negative regulation of lymphocyte proliferation,BP,3D
+6692,GO:0055015,0.02743612,0.999699698,1,5,ventricular cardiac muscle cell development,BP,3D
+6552,GO:0051610,0.027830502,0.999690952,1,5,serotonin uptake,BP,3D
+8869,GO:0099641,0.027891547,0.999676756,1,6,anterograde axonal protein transport,BP,3D
+3481,GO:0031914,0.028341328,0.999679435,1,5,negative regulation of synaptic plasticity,BP,3D
+9968,GO:1904141,0.028763467,0.999669757,1,5,positive regulation of microglial cell migration,BP,3D
+1594,GO:0007221,0.028763511,0.999656108,1,6,positive regulation of transcription of Notch receptor target,BP,3D
+1988,GO:0010039,0.028850594,0.999667741,1,5,response to iron ion,BP,3D
+7795,GO:0071229,0.029161345,0.999660501,1,5,cellular response to acid chemical,BP,3D
+6381,GO:0051147,0.029184671,0.999659954,1,5,regulation of muscle cell differentiation,BP,3D
+3097,GO:0022898,0.029250294,0.999658414,1,5,regulation of transmembrane transporter activity,BP,3D
+3321,GO:0030968,0.029407601,0.997593606,2,44,endoplasmic reticulum unfolded protein response,BP,3D
+4642,GO:0038033,0.029447181,0.999653772,1,5,positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway,BP,3D
+2138,GO:0010700,0.02959577,0.999650248,1,5,negative regulation of norepinephrine secretion,BP,3D
+1987,GO:0010038,0.029742673,0.999646745,1,5,response to metal ion,BP,3D
+9834,GO:1903721,0.029779597,0.999645862,1,5,positive regulation of I-kappaB phosphorylation,BP,3D
+4014,GO:0033683,0.029890436,0.999643205,1,5,"nucleotide-excision repair, DNA incision",BP,3D
+9295,GO:1901642,0.029939431,0.999642027,1,5,nucleoside transmembrane transport,BP,3D
+162,GO:0001504,0.030119389,0.999637684,1,5,neurotransmitter uptake,BP,3D
+6383,GO:0051149,0.030246581,0.999634598,1,5,positive regulation of muscle cell differentiation,BP,3D
+6360,GO:0051099,0.030971895,0.999616748,1,5,positive regulation of binding,BP,3D
+9906,GO:1903912,0.030973701,0.999616703,1,5,negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation,BP,3D
+9204,GO:1901164,0.031043742,0.999614956,1,5,negative regulation of trophoblast cell migration,BP,3D
+682,GO:0002903,0.031532367,0.999602659,1,5,negative regulation of B cell apoptotic process,BP,3D
+1708,GO:0007611,0.032137551,0.997230649,2,50,learning or memory,BP,3D
+69,GO:0000381,0.032140974,0.997233581,2,48,"regulation of alternative mRNA splicing, via spliceosome",BP,3D
+4313,GO:0035425,0.032307624,0.999582747,1,5,autocrine signaling,BP,3D
+2265,GO:0010907,0.032848823,0.999550746,1,6,positive regulation of glucose metabolic process,BP,3D
+8118,GO:0072201,0.032970883,0.999547378,1,6,negative regulation of mesenchymal cell proliferation,BP,3D
+7733,GO:0070972,0.033274145,0.999538957,1,6,protein localization to endoplasmic reticulum,BP,3D
+239,GO:0001738,0.033275589,0.999538917,1,6,morphogenesis of a polarized epithelium,BP,3D
+10984,GO:2001056,0.033570859,0.999530642,1,6,positive regulation of cysteine-type endopeptidase activity,BP,3D
+8532,GO:0097028,0.033742682,0.999525792,1,6,dendritic cell differentiation,BP,3D
+6335,GO:0051045,0.033851562,0.999522706,1,6,negative regulation of membrane protein ectodomain proteolysis,BP,3D
+7825,GO:0071314,0.034633257,0.99950025,1,6,cellular response to cocaine,BP,3D
+248,GO:0001765,0.03485865,0.999493678,1,6,membrane raft assembly,BP,3D
+2108,GO:0010629,0.035115837,0.992153021,4,214,negative regulation of gene expression,BP,3D
+5326,GO:0045063,0.03517441,0.999484398,1,6,T-helper 1 cell differentiation,BP,3D
+5453,GO:0045652,0.035233472,0.999482653,1,6,regulation of megakaryocyte differentiation,BP,3D
+7804,GO:0071257,0.035335621,0.999479627,1,6,cellular response to electrical stimulus,BP,3D
+5390,GO:0045428,0.035439802,0.999461732,1,7,regulation of nitric oxide biosynthetic process,BP,3D
+9372,GO:1902035,0.036307873,0.999450382,1,6,positive regulation of hematopoietic stem cell proliferation,BP,3D
+7910,GO:0071492,0.036356576,0.999448895,1,6,cellular response to UV-A,BP,3D
+6450,GO:0051310,0.03691906,0.999431581,1,6,metaphase plate congression,BP,3D
+10878,GO:2000672,0.037643207,0.999408891,1,6,negative regulation of motor neuron apoptotic process,BP,3D
+3502,GO:0032000,0.037953632,0.999382047,1,7,positive regulation of fatty acid beta-oxidation,BP,3D
+9790,GO:1903573,0.038866971,0.99936952,1,6,negative regulation of response to endoplasmic reticulum stress,BP,3D
+5467,GO:0045669,0.039125323,0.996240408,2,55,positive regulation of osteoblast differentiation,BP,3D
+9553,GO:1902806,0.03927628,0.999356064,1,6,regulation of cell cycle G1/S phase transition,BP,3D
+22,GO:0000082,0.040811883,0.995987415,2,55,G1/S transition of mitotic cell cycle,BP,3D
+10963,GO:2000987,0.041257093,0.999268835,1,7,positive regulation of behavioral fear response,BP,3D
+6437,GO:0051292,0.041994364,0.99922666,1,8,nuclear pore complex assembly,BP,3D
+10982,GO:2001046,0.042657969,0.999201819,1,8,positive regulation of integrin-mediated signaling pathway,BP,3D
+3850,GO:0032958,0.042762413,0.999197873,1,8,inositol phosphate biosynthetic process,BP,3D
+2397,GO:0014883,0.043402522,0.999173471,1,8,transition between fast and slow fiber,BP,3D
+2038,GO:0010447,0.044000912,0.999150324,1,8,response to acidic pH,BP,3D
+7257,GO:0061099,0.045534297,0.999089524,1,8,negative regulation of protein tyrosine kinase activity,BP,3D
+7911,GO:0071493,0.045535258,0.999107817,1,7,cellular response to UV-B,BP,3D
+5695,GO:0046330,0.045656747,0.995217621,2,60,positive regulation of JNK cascade,BP,3D
+2987,GO:0021795,0.046448096,0.999025587,1,10,cerebral cortex cell migration,BP,3D
+3835,GO:0032922,0.046508445,0.995078927,2,60,circadian regulation of gene expression,BP,3D
+4175,GO:0034613,0.046719398,0.995042416,2,61,cellular protein localization,BP,3D
+4012,GO:0033673,0.047378042,0.999013585,1,8,negative regulation of kinase activity,BP,3D
+2874,GO:0019953,0.047638474,0.999002608,1,8,sexual reproduction,BP,3D
+7630,GO:0070528,0.048311499,0.998973956,1,8,protein kinase C signaling,BP,3D
+8431,GO:0090280,0.048356139,0.998972041,1,8,positive regulation of calcium ion import,BP,3D
+4925,GO:0042770,0.048524937,0.998948596,1,9,signal transduction in response to DNA damage,BP,3D
+9249,GO:1901379,0.048551162,0.998923891,1,11,regulation of potassium ion transmembrane transport,BP,3D
+927,GO:0006091,0.048714491,0.998956602,1,8,generation of precursor metabolites and energy,BP,3D
+3416,GO:0031424,0.049325687,0.998929998,1,8,keratinization,BP,3D
+10973,GO:2001028,0.049666092,0.998898074,1,9,positive regulation of endothelial cell chemotaxis,BP,3D
+6367,GO:0051123,0.049762681,0.998910768,1,8,RNA polymerase II preinitiation complex assembly,BP,3D
