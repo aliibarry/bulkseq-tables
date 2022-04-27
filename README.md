@@ -25,6 +25,7 @@ allimariebarry@gmail.com </p>
 ```
 * DRGsubtype_general-injury_DEG: 3D tab: Ipsilateral vs contralateral samples from 3 days post-SNI (an acute timepoint). 4W tab: Ipsilateral vs contralateral samples from 4 days post-SNI (a chronic timepoint). 4W v 3D tab: Comparison of ipsilateral samples across timepoints.Contains samples from all subtypes. P < 0.05, all LFC.  
 * DRGsubtype_gneeral-injury_GSEA: GSEA analyses using ClusterProfiler (R) against all gene sets available from the Molecular Signatures Database (MSigDB). Samples were ranked by LFC.
+* DRGsubtype_general-injury_GO: GO term analyses using GoSeq (R) for general comparisons
 
 ### Subtype Injury signatures  
 ```
