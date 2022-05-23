@@ -21,7 +21,7 @@ allimariebarry@gmail.com </p>
 
 ### General Injury signatures  
 ```
-~ Time + Condition
+~ Time_Condition #grouping factor
 ```
 * DRGsubtype_general-injury_DEG: 3D tab: Ipsilateral vs contralateral samples from 3 days post-SNI (an acute timepoint). 4W tab: Ipsilateral vs contralateral samples from 4 days post-SNI (a chronic timepoint). 4W v 3D tab: Comparison of ipsilateral samples across timepoints.Contains samples from all subtypes. P < 0.05, all LFC.  
 * DRGsubtype_general-injury_DEGoverlap: overlapping DEGs (LFC>1, padj<0.05) between general 3D and 4W analyses.
@@ -30,8 +30,17 @@ allimariebarry@gmail.com </p>
 
 ### Subtype Injury signatures  
 ```
-~ Time + Condition + Population
+~ Time_Condition_Population #grouping factor
 ```
+
+### Sexual Dimorphism  
+```
+#Populations subsetted
+~ Time_Condition*Sex #interaction model
+~ Time_Condition + Sex #additive 
+
+```
+Additive model contrasts `M vs F` with `4W_ispilateral vs 4W_contralateral`
 
 [1]: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131230 "GSE131230"
 
