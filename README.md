@@ -33,7 +33,7 @@ allimariebarry@gmail.com </p>
 ~ Time_Condition_Population #grouping factor
 ```
 * DRGsubtype_subtype-injury_opposingDEGs_3D : DEG list (LFC>1, padj<0.05) which are regulated in opposing directions across subtype (+1 = up, -1 = down).
-* 
+* DRGsubtype_subtype-injury_GO : GO term analyses using GoSeq (R) for each subtype.
 
 
 ### Sexual Dimorphism  
