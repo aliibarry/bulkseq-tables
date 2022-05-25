@@ -46,5 +46,7 @@ allimariebarry@gmail.com </p>
 ```
 Additive model contrasts `M vs F` with `4W_ispilateral vs 4W_contralateral`
 
+* DRGsubtype_subtype-injury_sexdimorphism_DEG
+
 [1]: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131230 "GSE131230"
 
