@@ -5,6 +5,7 @@ Green Templeton College <br>
 University of Oxford <br>
 allimariebarry@gmail.com </p>
 
+# DRG subtype study (Ch2-Ch4)
 ## Supplementary tables  
 ### Naive comparisions  
 ```
@@ -48,5 +49,22 @@ Additive model contrasts `M vs F` with `4W_ispilateral vs 4W_contralateral`
 
 * DRGsubtype_subtype-injury_sexdimorphism_DEG
 
+
+# Injured and Intact afferents (Ch5, ATf3)
+## Supplementary tables  
+### Injury comparisions  
+```
+~ Time_Condition
+```
+* ATF3_injury_DEGs: DEGs for 3D or 4W post-SNI. 
+
+### Sex interaction
+```
+~ Time_Condition*Sex
+```
+* ATF3_sex_DEGs : DEGs for 3D or 4W post-SNI. Contralateral + Female baseline. Injured vs contralateral (injured) and intact vs contralateral (intact) comparisions.
+* ATF3_sex_GO : GO term analyses using GoSeq (R) for 3D intact.
+
 [1]: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131230 "GSE131230"
+
 
