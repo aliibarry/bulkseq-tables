@@ -51,7 +51,7 @@ Additive model contrasts `M vs F` with `4W_ispilateral vs 4W_contralateral`
 * DRGsubtype_subtype-injury_sexdimorphism_DEG
 
 
-## Injured and Intact afferents (Ch5, ATf3)
+## Injured and Intact afferents (Ch5, Atf3)
 ### Injury comparisions  
 ```
 ~ Time_Condition
