@@ -1,12 +1,13 @@
 # Exploring the molecular underpinnings of neuropathic pain in primary afferent subtypes
 
+Supplementary tables  
+
 <p>Allison Marie Barry <br>
 Green Templeton College <br>
 University of Oxford <br>
 allimariebarry@gmail.com </p>
 
-# DRG subtype study (Ch2-Ch4)
-## Supplementary tables  
+## DRG subtype study (Ch2-Ch4)
 ### Naive comparisions  
 ```
 ~ Population
@@ -50,13 +51,14 @@ Additive model contrasts `M vs F` with `4W_ispilateral vs 4W_contralateral`
 * DRGsubtype_subtype-injury_sexdimorphism_DEG
 
 
-# Injured and Intact afferents (Ch5, ATf3)
-## Supplementary tables  
+## Injured and Intact afferents (Ch5, ATf3)
 ### Injury comparisions  
 ```
 ~ Time_Condition
 ```
-* ATF3_injury_DEGs: DEGs for 3D or 4W post-SNI. 
+* ATF3_injury_DEGs: DEGs for 3D or 4W post-SNI.
+* ATF3_generegulation_DEGs / transcriptionfactors / generalimmune: Subsets of ATF3_injury_DEGs based on biological/molecular function
+* ATF3_injury_GSEA-hallmark : GSEA analyses using ClusterProfiler (R) against hallmark gene sets available from the Molecular Signatures Database (MSigDB). Samples were ranked by LFC.
 
 ### Sex interaction
 ```
