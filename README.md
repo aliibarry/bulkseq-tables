@@ -13,7 +13,7 @@ allimariebarry@gmail.com </p>
 
 ## DRG subtype study (Ch2-Ch4)
 
-Please cite or [biorxiv](https://www.biorxiv.org/content/10.1101/2022.11.21.516781v1) for data tables used from these chapters.
+Please cite our [biorxiv](https://www.biorxiv.org/content/10.1101/2022.11.21.516781v1) for data tables used from these chapters.
 
 ### Naive comparisions  
 ```
