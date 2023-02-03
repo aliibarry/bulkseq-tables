@@ -12,6 +12,9 @@ University of Oxford <br>
 allimariebarry@gmail.com </p>
 
 ## DRG subtype study (Ch2-Ch4)
+
+Please cite [Barry et al](https://www.biorxiv.org/content/10.1101/2022.11.21.516781v1) for data tables used from these chapters.
+
 ### Naive comparisions  
 ```
 ~ Population
@@ -56,6 +59,9 @@ Additive model contrasts `M vs F` with `4W_ispilateral vs 4W_contralateral`
 
 
 ## Injured and Intact afferents (Ch5, Atf3)
+
+Otherwise unpublished, please cite this thesis for data used from this chapter.
+
 ### Injury comparisions  
 ```
 ~ Time_Condition
