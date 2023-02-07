@@ -4,7 +4,8 @@ Barry, A. M. (2022). Exploring the molecular underpinnings of neuropathic pain i
 
 Data is also availale from Barry (2022) (PhD Thesis), [GSE216444](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE216444) and processed results can be queried on our database ([DRG Directory](https://livedataoxford.shinyapps.io/drg-directory/)).
 
-Supplementary tables  
+Supplementary tables
+[![DOI](https://zenodo.org/badge/474771995.svg)](https://zenodo.org/badge/latestdoi/474771995) 
 
 <p>Allison Marie Barry <br>
 Green Templeton College <br>
