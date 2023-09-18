@@ -15,7 +15,7 @@ allimariebarry@gmail.com </p>
 
 ## DRG subtype study (Ch2-Ch4)
 
-Please cite our [biorxiv](https://www.biorxiv.org/content/10.1101/2022.11.21.516781v1) for data tables used from these chapters.
+Please cite our paper in [PAIN](https://journals.lww.com/pain/fulltext/2023/10000/deep_rna_seq_of_male_and_female_murine_sensory.7.aspx) for data tables used from these chapters.
 
 ### Naive comparisions  
 ```
